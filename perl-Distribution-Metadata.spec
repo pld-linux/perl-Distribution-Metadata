@@ -54,6 +54,7 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(644,root,root,755)
 %doc Changes README
 %attr(755,root,root) %{_bindir}/which-meta
+%dir %{perl_vendorlib}/Distribution
 %{perl_vendorlib}/Distribution/*.pm
 %{perl_vendorlib}/Distribution/Metadata
 %{_mandir}/man1/which-meta.1p*
