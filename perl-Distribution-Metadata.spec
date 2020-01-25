@@ -4,7 +4,6 @@
 
 %define		pdir	Distribution
 %define		pnam	Metadata
-%include	/usr/lib/rpm/macros.perl
 Summary:	Distribution::Metadata - gather distribution metadata in local
 Name:		perl-Distribution-Metadata
 Version:	0.04
