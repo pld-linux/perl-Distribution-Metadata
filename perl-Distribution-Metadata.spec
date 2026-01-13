@@ -7,7 +7,7 @@
 Summary:	Distribution::Metadata - gather distribution metadata in local
 Name:		perl-Distribution-Metadata
 Version:	0.04
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
